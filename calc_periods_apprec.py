@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 # A function that calculates the number of periods required to 
 # achieve a desired amount of appreciation provided the present
