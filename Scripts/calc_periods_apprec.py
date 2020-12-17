@@ -15,7 +15,7 @@ def calc_periods_appreciation(future_value, present_value, interest_rate):
 
 
 ''' Method call '''
-estimtate_periods = calc_periods_appreciation(200000, 100000, 0.03)
+prds = calc_periods_appreciation(200000, 100000, 0.03)
 
 ''' Output '''
-print(estimtate_periods)
+print(prds)
