@@ -14,7 +14,7 @@ def calc_periodic_interest(future_value, present_value, n):
     return interest_rate
 
 ''' Method call '''
-calculate_interest = calc_periodic_interest(200000, 100000, 9)
+intrst = calc_periodic_interest(200000, 100000, 9)
 
 ''' Output '''
-print(calculate_interest)
+print(intrst)
