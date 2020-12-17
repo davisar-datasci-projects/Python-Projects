@@ -12,7 +12,7 @@ def calc_present_value(future_value, interest_rate, n):
     return value
 
 ''' Method call '''
-estimate_present_value = calc_present_value(200000, 0.04, 3)
+pv = calc_present_value(200000, 0.04, 3)
 
 
-print(estimate_present_value)
+print(pv)
