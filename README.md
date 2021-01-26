@@ -1,3 +1,7 @@
 # Python Projects
 
-This repository contains a collection of projects for Data Science and Machine Learning with Python. 
+Repository containing portfolio of data science projects completed by me for self learning, and hobby purposes.
+
+The R portfolio is located https://github.com/ldavis-datasci-projects/R-Projects.git
+
+
