@@ -4,6 +4,8 @@ Repository containing portfolio of data science projects completed by me for sel
 
 The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-Projects.git)
 
-Contents
+## Contents
+
+- ### Machine Learning
 
 
