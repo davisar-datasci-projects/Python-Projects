@@ -8,5 +8,5 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 
 ### Machine Learning
 
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of Bitcoin utilizing machine learning.
+- [Stock Price Prediction](): A supervised learning-based models to predict the value of Bitcoin utilizing machine learning. 
 
