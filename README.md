@@ -6,10 +6,12 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 
 ## Contents
 
-### Machine Learning for Financial Analysis
+### Financial Analysis
 
 - [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
 - 
+
+### Algorithmic Trading
 
 ### Machine Learning for Financial Risk Management
 
