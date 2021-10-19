@@ -20,8 +20,10 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 
 ### Machine Learning for Financial Risk Management
 
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Debt Securities Markets](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Equity Securities Markets]():
+- [Derivative Securities Markets]():
+- [Foreign Exchange Markets]():
 
 ### Machine Learning for Algorithmic Trading
 - [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
