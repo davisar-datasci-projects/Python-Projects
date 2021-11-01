@@ -37,7 +37,3 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 - [Unsupervised Learning](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
 - [Word Embeddings](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
 - [Topic Modeling](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-
-### Business Analytics
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
