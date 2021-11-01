@@ -20,14 +20,23 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 
 ### Machine Learning for Financial Risk Management
 
-- [Debt Securities Markets](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Equity Securities Markets]():
-- [Derivative Securities Markets]():
-- [Foreign Exchange Markets]():
+- [Time Series Modeling](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Market Risk]():
+- [Credit Risk]():
+- [Liquidity Risk]():
+- [Operational Risk]():
 
 ### Machine Learning for Algorithmic Trading
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Alpha Factor Research](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Strategy Evaluation](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Linear Models](): A supervised learning-based models to predict the value of stock utilizing machine learning.
+- [Time Series Models](): A supervised learning-based models to predict the value of stock utilizing machine learning.  
+- [Bayesian Models](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Decision Trees and Random Forests](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Gradient Boosting Models](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Unsupervised Learning](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Word Embeddings](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Topic Modeling](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
 
 ### Business Analytics
 - [Stock Price Prediction](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
