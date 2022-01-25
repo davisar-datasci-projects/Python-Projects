@@ -15,10 +15,10 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 
 ### Algorithmic Trading
 
-- [Commodities](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Equities]():
-- [Interest Rate Bonds]():
-- [Foreign Exchange]():
+- [Simple Moving Averages](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Momentum]():
+- [Mean Reversion]():
+- [Deep Learning]():
 
 ### Machine Learning for Financial Risk Management
 
