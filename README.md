@@ -2,7 +2,7 @@
 
 Repository containing portfolio of data science projects completed by me for self learning, and hobby purposes.
 
-The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-Projects.git)
+The R portfolio is located [Here](https://github.com/davisar-datasci-projects/R-Projects.git)
 
 ## Contents
 
@@ -13,12 +13,12 @@ The R portfolio is located [Here](https://github.com/ldavis-datasci-projects/R-P
 - [Derivative Securities Markets]():
 - [Foreign Exchange Markets]():
 
-### Algorithmic Trading
+### Blockchain
 
-- [Simple Moving Averages](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Momentum]():
-- [Mean Reversion]():
-- [Deep Learning]():
+- [DApp](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
+- [Cryptocurrency Wallet]():
+- [Decentralized File System]():
+- [Token]():
 
 ### Machine Learning for Financial Risk Management
 
