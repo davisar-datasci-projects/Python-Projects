@@ -1,6 +1,6 @@
 # Python Projects
 
-Repository containing portfolio of data science projects completed by me for professional growth.
+Repository containing portfolio of data science projects completed by me for personal and professional growth.
 
 The R portfolio is located [Here](https://github.com/davisar-datasci-projects/R-Projects.git)
 
