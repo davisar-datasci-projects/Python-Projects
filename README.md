@@ -13,13 +13,6 @@ The R portfolio is located [Here](https://github.com/davisar-datasci-projects/R-
 - [Derivative Securities Markets]():
 - [Foreign Exchange Markets]():
 
-### Blockchain
-
-- [DApp](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
-- [Cryptocurrency Wallet]():
-- [Decentralized File System]():
-- [Token]():
-
 ### Machine Learning for Financial Risk Management
 
 - [Time Series Modeling](): A supervised learning-based models to predict the value of stock utilizing machine learning. 
